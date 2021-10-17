@@ -1,6 +1,6 @@
 # SENG201 21S1 Group 8 Project
 
-The project's repository can be found on GitLab here: https://eng-git.canterbury.ac.nz/mwa172/seng201-21s1-group-8
+The project's repository can be found on GitLab here: https://github.com/TheDeathlyCow/seng201-project/
 
 # Running the Application
 
