@@ -2,6 +2,8 @@
 
 The project's repository can be found on GitLab here: https://github.com/TheDeathlyCow/seng201-project/
 
+Made by Michael Alpenfels and Jakib Isherwood.
+
 # Running the Application
 
 Simply double clicking the file `seng201-21s1-group-8.jar` should be enough to run the application. If that does not work, open a terminal or command prompt window in the same directory as the jar file and run the command `java -jar seng201-21s1-group-8.jar`. If you want to run the command line application, run the command `java -jar seng201-21s1-group-8.jar nogui` instead. 
