@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Coronavirus",
+        "weight": 2,
+        "severity": 0.3
+    },
+    {
+        "name": "Scurvy",
+        "weight": 5,
+        "severity": 0.1
+    },
+    {
+        "name": "Smallpox",
+        "weight": 3,
+        "severity": 0.25
+    },
+    {
+        "name": "Cholera",
+        "weight": 2,
+        "severity": 0.45
+    },
+    {
+        "name": "Black Death",
+        "weight": 1,
+        "severity": 0.75
+    },
+    {
+        "name": "Influenza",
+        "weight": 4,
+        "severity": 0.16
+    }
+]

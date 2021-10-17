@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Black Beard Pirates",
+        "weight": 4,
+        "ship": {
+            "name": "Queen Anne's Revenge",
+            "base_weight": 1,
+            "attributes": {
+                "name": "Pirate Ship",
+                "max_health": 350,
+                "speed": 1,
+                "damage": 25,
+                "armour": 40,
+                "num_beds": 100,
+                "max_weight": 500,
+                "upgrade_slots": 1,
+                "cargo_slots": 100
+            }
+        }
+    },
+    {
+        "name": "Red Beard Pirates",
+        "weight": 6,
+        "ship": {
+            "name": "Queen Boudicca's Revenge",
+            "base_weight": 1,
+            "attributes": {
+                "name": "Jakib's Unkempt Beard",
+                "max_health": 175,
+                "speed": 1,
+                "damage": 30,
+                "armour": 30,
+                "num_beds": 100,
+                "max_weight": 500,
+                "upgrade_slots": 1,
+                "cargo_slots": 100
+            }
+        }
+    },
+    {
+        "name": "Jack Sparrow",
+        "weight": 3,
+        "ship": {
+            "name": "Black Pearl",
+            "base_weight": 1,
+            "attributes": {
+                "name": "He's a Pirate",
+                "max_health": 150,
+                "speed": 1,
+                "damage": 50,
+                "armour": 5,
+                "num_beds": 100,
+                "max_weight": 500,
+                "upgrade_slots": 1,
+                "cargo_slots": 100
+            }
+        }
+    },
+    {
+        "name": "Pirates of Edward Kenway",
+        "weight": 1,
+        "ship": {
+            "name": "Jackdaw",
+            "base_weight": 1,
+            "attributes": {
+                "name": "Nothing is true, everything is permitted",
+                "max_health": 165,
+                "speed": 1,
+                "damage": 30,
+                "armour": 30,
+                "num_beds": 100,
+                "max_weight": 500,
+                "upgrade_slots": 1,
+                "cargo_slots": 100
+            }
+        }
+    }
+]

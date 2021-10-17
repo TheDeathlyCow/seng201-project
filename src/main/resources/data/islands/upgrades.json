@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Cannons",
+        "max_health": 5,
+        "speed": 0,
+        "damage": 15,
+        "armour": 5,
+        "num_beds": 0,
+        "max_weight": 0,
+        "base_value": 35.7,
+        "weight": 25
+    },
+    {
+        "name": "Steel Hull",
+        "max_health": 15,
+        "speed": -5,
+        "armour": 15,
+        "base_value": 45,
+        "weight": 25
+    },
+    {
+        "name": "Ram",
+        "speed": 5,
+        "damage": 15,
+        "armour": 3,
+        "base_value": 25,
+        "weight": 15
+    },
+    {
+        "name": "Bunk Beds",
+        "num_beds": 25,
+        "base_value": 15.5,
+        "weight": 5
+    }
+]

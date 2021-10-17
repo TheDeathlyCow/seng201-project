@@ -1,0 +1,10 @@
+{
+  "num_islands": 5,
+  "use_unicode": false,
+  "avg_vendor_stock": 5,
+  "wage_cost_per_day": 0.13,
+  "hire_cost": 0.5,
+  "max_events": 6,
+  "max_items_per_page": 10,
+  "person_weight": 1
+}

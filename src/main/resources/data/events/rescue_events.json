@@ -1,0 +1,27 @@
+[
+    {
+        "ship_name": "RMS Titanic",
+        "weight": 2,
+        "num_sailors": 5
+    }, 
+    {
+        "ship_name": "USS Arizona",
+        "weight": 1,
+        "num_sailors": 3
+    },
+    {
+        "ship_name": "RMS Lusitania",
+        "weight": 3,
+        "num_sailors": 6
+    },
+    {
+        "ship_name": "USS Boaty McBoatface",
+        "weight": 2,
+        "num_sailors": 2
+    },
+    {
+        "ship_name": "USS Maine",
+        "weight": 1,
+        "num_sailors": 5
+    }
+]

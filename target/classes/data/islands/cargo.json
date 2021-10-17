@@ -1,0 +1,638 @@
+[
+    {
+        "name": "Barrel of Rum",
+        "type": "ALCOHOL",
+        "base_value": 30.0,
+        "weight": 5
+    },
+    {
+        "name": "Barrel of Wine",
+        "type": "ALCOHOL",
+        "base_value": 35.0,
+        "weight": 5
+    },
+    {
+        "name": "Barrel of Mead",
+        "type": "ALCOHOL",
+        "base_value": 26.0,
+        "weight": 5
+    },
+    {
+        "name": "Crate of Rum",
+        "type": "ALCOHOL",
+        "base_value": 10.0,
+        "weight": 5
+    },
+    {
+        "name": "Crate of Wine",
+        "type": "ALCOHOL",
+        "base_value": 10.4,
+        "weight": 2
+    },
+    {
+        "name": "Crate of Mead",
+        "type": "ALCOHOL",
+        "base_value": 9.8,
+        "weight": 2
+    },
+    {
+        "name": "Silver Plates",
+        "type": "LUXURY",
+        "base_value": 50.0,
+        "weight": 3
+    },
+    {
+        "name": "Silver Plates",
+        "type": "LUXURY",
+        "base_value": 50.0,
+        "weight": 3
+    },
+    {
+        "name": "Marble Statues",
+        "type": "LUXURY",
+        "base_value": 47.6,
+        "weight": 7
+    },
+    {
+        "name": "Bronze Bull",
+        "type": "LUXURY",
+        "base_value": 70.0,
+        "weight": 20
+    },
+    {
+        "name": "Crate of Tobacco",
+        "type": "LUXURY",
+        "base_value": 47.0,
+        "weight": 3
+    },
+    {
+        "name": "Pipeweed",
+        "type": "LUXURY",
+        "base_value": 29.4,
+        "weight": 2
+    },
+    {
+        "name": "Mystery Crate",
+        "type": "LUXURY",
+        "base_value": 116.0,
+        "weight": 5
+    },
+    {
+        "name": "Box of Nutmeg",
+        "type": "LUXURY",
+        "base_value": 26.0,
+        "weight": 2
+    },
+    {
+        "name": "Box of Cinnamon",
+        "type": "LUXURY",
+        "base_value": 26.0,
+        "weight": 2
+    },
+    {
+        "name": "Box of Ginger",
+        "type": "LUXURY",
+        "base_value": 26.0,
+        "weight": 2
+    },
+    {
+        "name": "Box of Turmeric",
+        "type": "LUXURY",
+        "base_value": 26.0,
+        "weight": 2
+    },
+    {
+        "name": "Rolls of Silk",
+        "type": "LUXURY",
+        "base_value": 50.0,
+        "weight": 5
+    },
+    {
+        "name": "Ivory Chest",
+        "type": "LUXURY",
+        "base_value": 71.2,
+        "weight": 7
+    },
+    {
+        "name": "Religious Sculpture",
+        "type": "LUXURY",
+        "base_value": 17.0,
+        "weight": 3
+    },
+    {
+        "name": "Incense",
+        "type": "LUXURY",
+        "base_value": 25.0,
+        "weight": 3
+    },
+    {
+        "name": "Religious Sculpture",
+        "type": "LUXURY",
+        "base_value": 17.0,
+        "weight": 3
+    },
+    {
+        "name": "Iron Ore",
+        "type": "NATURAL_RESOURCE",
+        "base_value": 5.0,
+        "weight": 5
+    },
+    {
+        "name": "Coal Ore",
+        "type": "NATURAL_RESOURCE",
+        "base_value": 4.6,
+        "weight": 4
+    },
+    {
+        "name": "Timber",
+        "type": "NATURAL_RESOURCE",
+        "base_value": 5.4,
+        "weight": 3
+    },
+    {
+        "name": "Charcoal",
+        "type": "NATURAL_RESOURCE",
+        "base_value": 3.4,
+        "weight": 1
+    },
+    {
+        "name": "Quarried Stone",
+        "type": "NATURAL_RESOURCE",
+        "base_value": 15.4,
+        "weight": 7
+    },
+    {
+        "name": "Iron Ore",
+        "type": "NATURAL_RESOURCE",
+        "base_value": 5.0,
+        "weight": 5
+    },
+    {
+        "name": "Coal Ore",
+        "type": "NATURAL_RESOURCE",
+        "base_value": 4.6,
+        "weight": 4
+    },
+    {
+        "name": "Timber",
+        "type": "NATURAL_RESOURCE",
+        "base_value": 5.4,
+        "weight": 3
+    },
+    {
+        "name": "Charcoal",
+        "type": "NATURAL_RESOURCE",
+        "base_value": 3.4,
+        "weight": 1
+    },
+    {
+        "name": "Quarried Stone",
+        "type": "NATURAL_RESOURCE",
+        "base_value": 15.4,
+        "weight": 7
+    },
+    {
+        "name": "Iron Ore",
+        "type": "NATURAL_RESOURCE",
+        "base_value": 5.0,
+        "weight": 5
+    },
+    {
+        "name": "Coal Ore",
+        "type": "NATURAL_RESOURCE",
+        "base_value": 4.6,
+        "weight": 4
+    },
+    {
+        "name": "Timber",
+        "type": "NATURAL_RESOURCE",
+        "base_value": 5.4,
+        "weight": 3
+    },
+    {
+        "name": "Charcoal",
+        "type": "NATURAL_RESOURCE",
+        "base_value": 3.4,
+        "weight": 1
+    },
+    {
+        "name": "Quarried Stone",
+        "type": "NATURAL_RESOURCE",
+        "base_value": 15.4,
+        "weight": 7
+    },
+    {
+        "name": "Scimitar",
+        "type": "WEAPON",
+        "base_value": 18.0,
+        "weight": 3
+    },
+    {
+        "name": "Muskets",
+        "type": "WEAPON",
+        "base_value": 16.0,
+        "weight": 4
+    },
+    {
+        "name": "Flintlock Pistols",
+        "type": "WEAPON",
+        "base_value": 14.0,
+        "weight": 3
+    },
+    {
+        "name": "Musket Rounds",
+        "type": "WEAPON",
+        "base_value": 4.6,
+        "weight": 2
+    },
+    {
+        "name": "Crate of Oranges",
+        "type": "FOOD",
+        "base_value": 10.0,
+        "weight": 6
+    },
+    {
+        "name": "Crate of Lemons",
+        "type": "FOOD",
+        "base_value": 10.0,
+        "weight": 6
+    },
+    {
+        "name": "Cabbages",
+        "type": "FOOD",
+        "base_value": 9.0,
+        "weight": 3
+    },
+    {
+        "name": "Crate of Wheat",
+        "type": "FOOD",
+        "base_value": 4.6,
+        "weight": 4
+    },
+    {
+        "name": "Barrel of Grain",
+        "type": "FOOD",
+        "base_value": 4.6,
+        "weight": 4
+    },
+    {
+        "name": "Sack of Rice",
+        "type": "FOOD",
+        "base_value": 4.6,
+        "weight": 4
+    },
+    {
+        "name": "Salted Pork",
+        "type": "FOOD",
+        "base_value": 8.6,
+        "weight": 3
+    },
+    {
+        "name": "Salted Salmon",
+        "type": "FOOD",
+        "base_value": 7.9,
+        "weight": 2
+    },
+    {
+        "name": "Cabbages",
+        "type": "FOOD",
+        "base_value": 9.0,
+        "weight": 3
+    },
+    {
+        "name": "Crate of Wheat",
+        "type": "FOOD",
+        "base_value": 4.6,
+        "weight": 4
+    },
+    {
+        "name": "Barrel of Grain",
+        "type": "FOOD",
+        "base_value": 4.6,
+        "weight": 4
+    },
+    {
+        "name": "Sack of Rice",
+        "type": "FOOD",
+        "base_value": 4.6,
+        "weight": 4
+    },
+    {
+        "name": "Salted Pork",
+        "type": "FOOD",
+        "base_value": 8.6,
+        "weight": 3
+    },
+    {
+        "name": "Salted Salmon",
+        "type": "FOOD",
+        "base_value": 7.9,
+        "weight": 2
+    },
+    {
+        "name": "Cabbages",
+        "type": "FOOD",
+        "base_value": 9.0,
+        "weight": 3
+    },
+    {
+        "name": "Crate of Wheat",
+        "type": "FOOD",
+        "base_value": 4.6,
+        "weight": 4
+    },
+    {
+        "name": "Barrel of Grain",
+        "type": "FOOD",
+        "base_value": 4.6,
+        "weight": 4
+    },
+    {
+        "name": "Sack of Rice",
+        "type": "FOOD",
+        "base_value": 4.6,
+        "weight": 4
+    },
+    {
+        "name": "Salted Pork",
+        "type": "FOOD",
+        "base_value": 8.6,
+        "weight": 3
+    },
+    {
+        "name": "Salted Salmon",
+        "type": "FOOD",
+        "base_value": 7.9,
+        "weight": 2
+    },
+    {
+        "name": "Bundle of Parsley",
+        "type": "FOOD",
+        "base_value": 4.6,
+        "weight": 1
+    },
+    {
+        "name": "Bundle of Chives",
+        "type": "FOOD",
+        "base_value": 4.6,
+        "weight": 1
+    },
+    {
+        "name": "Bundle of Mint",
+        "type": "FOOD",
+        "base_value": 4.6,
+        "weight": 1
+    },
+    {
+        "name": "Bundle of Basil",
+        "type": "FOOD",
+        "base_value": 5.0,
+        "weight": 1
+    },
+    {
+        "name": "Salted Salmon",
+        "type": "FOOD",
+        "base_value": 7.9,
+        "weight": 2
+    },
+    {
+        "name": "Sack of Potatoes",
+        "type": "FOOD",
+        "base_value": 4.8,
+        "weight": 4
+    },
+    {
+        "name": "Week Old Pizza",
+        "type": "FOOD",
+        "base_value": 2.0,
+        "weight": 1
+    },
+    {
+        "name": "Medicinal Herbs",
+        "type": "MEDICINE",
+        "base_value": 13.0,
+        "weight": 2
+    },
+    {
+        "name": "Crate of Lemons",
+        "type": "MEDICINE",
+        "base_value": 12.0,
+        "weight": 5
+    },
+    {
+        "name": "Crate of Oranges",
+        "type": "MEDICINE",
+        "base_value": 12.0,
+        "weight": 5
+    },
+    {
+        "name": "Bundle of Rope",
+        "type": "COMMON",
+        "base_value": 2.4,
+        "weight": 2
+    },
+    {
+        "name": "Crate of Nails",
+        "type": "COMMON",
+        "base_value": 4.2,
+        "weight": 3
+    },
+    {
+        "name": "Mystery Crate",
+        "type": "COMMON",
+        "base_value": 3.4,
+        "weight": 3
+    },
+    {
+        "name": "Cheap Rugs",
+        "type": "COMMON",
+        "base_value": 9.4,
+        "weight": 2
+    },
+    {
+        "name": "Pottery",
+        "type": "COMMON",
+        "base_value": 8.6,
+        "weight": 3
+    },
+    {
+        "name": "Wooden Chairs",
+        "type": "COMMON",
+        "base_value": 10.8,
+        "weight": 6
+    },
+    {
+        "name": "Wooden Tables",
+        "type": "COMMON",
+        "base_value": 13.3,
+        "weight": 8
+    },
+    {
+        "name": "Bundle of Rope",
+        "type": "COMMON",
+        "base_value": 2.4,
+        "weight": 2
+    },
+    {
+        "name": "Crate of Nails",
+        "type": "COMMON",
+        "base_value": 4.2,
+        "weight": 3
+    },
+    {
+        "name": "Mystery Crate",
+        "type": "COMMON",
+        "base_value": 3.4,
+        "weight": 3
+    },
+    {
+        "name": "Cheap Rugs",
+        "type": "COMMON",
+        "base_value": 9.4,
+        "weight": 2
+    },
+    {
+        "name": "Pottery",
+        "type": "COMMON",
+        "base_value": 8.6,
+        "weight": 3
+    },
+    {
+        "name": "Wooden Chairs",
+        "type": "COMMON",
+        "base_value": 10.8,
+        "weight": 6
+    },
+    {
+        "name": "Wooden Tables",
+        "type": "COMMON",
+        "base_value": 13.3,
+        "weight": 8
+    },
+    {
+        "name": "Bundle of Rope",
+        "type": "COMMON",
+        "base_value": 2.4,
+        "weight": 2
+    },
+    {
+        "name": "Crate of Nails",
+        "type": "COMMON",
+        "base_value": 4.2,
+        "weight": 3
+    },
+    {
+        "name": "Mystery Crate",
+        "type": "COMMON",
+        "base_value": 3.4,
+        "weight": 3
+    },
+    {
+        "name": "Cheap Rugs",
+        "type": "COMMON",
+        "base_value": 9.4,
+        "weight": 2
+    },
+    {
+        "name": "Pottery",
+        "type": "COMMON",
+        "base_value": 8.6,
+        "weight": 3
+    },
+    {
+        "name": "Wooden Chairs",
+        "type": "COMMON",
+        "base_value": 10.8,
+        "weight": 6
+    },
+    {
+        "name": "Wooden Tables",
+        "type": "COMMON",
+        "base_value": 13.3,
+        "weight": 8
+    },
+    {
+        "name": "Bundle of Rope",
+        "type": "COMMON",
+        "base_value": 2.4,
+        "weight": 2
+    },
+    {
+        "name": "Crate of Nails",
+        "type": "COMMON",
+        "base_value": 4.2,
+        "weight": 3
+    },
+    {
+        "name": "Mystery Crate",
+        "type": "COMMON",
+        "base_value": 3.4,
+        "weight": 3
+    },
+    {
+        "name": "Cheap Rugs",
+        "type": "COMMON",
+        "base_value": 9.4,
+        "weight": 2
+    },
+    {
+        "name": "Pottery",
+        "type": "COMMON",
+        "base_value": 8.6,
+        "weight": 3
+    },
+    {
+        "name": "Wooden Chairs",
+        "type": "COMMON",
+        "base_value": 10.8,
+        "weight": 6
+    },
+    {
+        "name": "Wooden Tables",
+        "type": "COMMON",
+        "base_value": 13.3,
+        "weight": 8
+    },
+    {
+        "name": "Bundle of Rope",
+        "type": "COMMON",
+        "base_value": 2.4,
+        "weight": 2
+    },
+    {
+        "name": "Crate of Nails",
+        "type": "COMMON",
+        "base_value": 4.2,
+        "weight": 3
+    },
+    {
+        "name": "Mystery Crate",
+        "type": "COMMON",
+        "base_value": 3.4,
+        "weight": 3
+    },
+    {
+        "name": "Cheap Rugs",
+        "type": "COMMON",
+        "base_value": 9.4,
+        "weight": 2
+    },
+    {
+        "name": "Pottery",
+        "type": "COMMON",
+        "base_value": 8.6,
+        "weight": 3
+    },
+    {
+        "name": "Wooden Chairs",
+        "type": "COMMON",
+        "base_value": 10.8,
+        "weight": 6
+    },
+    {
+        "name": "Wooden Tables",
+        "type": "COMMON",
+        "base_value": 13.3,
+        "weight": 8
+    }
+]

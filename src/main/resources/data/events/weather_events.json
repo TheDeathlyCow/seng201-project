@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Small Hurricane",
+        "weight": 3,
+        "severity": 0.5
+    },
+    {
+        "name": "Moderate Hurricane",
+        "weight": 2,
+        "severity": 0.75
+    },
+    {
+        "name": "Severe Hurricane",
+        "weight": 1,
+        "severity": 1.0
+    },
+    {
+        "name": "Water Spout",
+        "weight": 3,
+        "severity": 0.4
+    },
+    {
+        "name": "Severe Water Spout",
+        "weight": 1,
+        "severity": 0.67
+    },
+    {
+        "name": "Thunder Storm",
+        "weight": 6,
+        "severity": 0.2
+    },
+    {
+        "name": "Severe Thunder Storm",
+        "weight": 4,
+        "severity": 0.4
+    },
+    {
+        "name": "Lightning Strike",
+        "weight": 4,
+        "severity": 0.1
+    },
+    {
+        "name": "Tsunami",
+        "weight": 1,
+        "severity": 0.5
+    },
+    {
+        "name": "Tea Tsunami",
+        "weight": 1,
+        "severity": 0.2
+    }
+]
