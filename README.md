@@ -1,6 +1,6 @@
 # SENG201 21S1 Group 8 Project
 
-The project's repository can be found on GitLab here: https://github.com/TheDeathlyCow/seng201-project/
+The project's repository can be found on GitHub here: https://github.com/TheDeathlyCow/seng201-project/
 
 Made by Michael Alpenfels and Jakib Isherwood.
 
